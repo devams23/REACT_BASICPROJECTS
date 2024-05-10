@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  /*@layer components { a components na layer ma attach kari dese , bhale ene utilities pachi lakhyu hoy toh pan
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+
+  .okay {
+    color: rgb(85, 85, 110);
+    border: 5px solid rgb(17, 255, 0);
+    border-radius: 50px;
+  }
+} */
